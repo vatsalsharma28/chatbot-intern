@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+streamlit-webrtc
+Pillow
+speechrecognition
+av
+Path
+requests
+gtts
+pytesseract
